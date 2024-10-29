@@ -1,0 +1,15 @@
+{
+    "histApiBaseUrl":"http://localhost:6244/api/values/history", 
+    "files":[
+        {
+            "fileName": "Interregional",
+            "offset": 0,
+            "destFolder": "E:\\scada_reports\\SCADA\\Reports\\Interregional"
+        },
+        {
+            "fileName": "STATE_gen",
+            "offset": 2,
+            "destFolder": "E:\\scada_reports\\SCADA\\Reports\\State_gen"
+        }
+    ]
+}
